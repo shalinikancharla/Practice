@@ -18,6 +18,6 @@ export class RobotHands extends BaseHands{
 
     searchtesting(){
         this.typeTextonDom("name", "search", "Automation Testing")
-            .clickOnDomElement("[@class='sprite svg-search-icon']")
+            .clickOnDomElement("[class='sprite svg-search-icon']")
     }
 }

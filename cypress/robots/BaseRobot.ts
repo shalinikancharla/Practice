@@ -209,6 +209,11 @@ export class BaseDependencies {
     return this;
   }
 
+  accessUrl(url: string) {
+    cy.visit(`${url}`);
+    return this;
+  }
+
   login() {
     cy.get('#email').type(Cypress.env('USER_NAME'));
     cy.get('#password').type(Cypress.env('PASSWORD'));
