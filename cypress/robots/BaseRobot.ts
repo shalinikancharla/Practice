@@ -159,10 +159,6 @@ export class BaseHands {
     cy.get(dom).click();
     return this;
   }
-  
-  clickOnXpath(xpath: string){
-    cy.xpath(`${xpath}`).click();
-  }
 
   typeTextonDom(locatorName: string, locatorValue: string, text: string) {
     cy.get(`[${locatorName}="${locatorValue}"]`).type(text, { force: true });
