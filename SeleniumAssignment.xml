@@ -1,0 +1,13 @@
+<suite name="ZemosoAssignment">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"/>
+    </listeners>
+    <test name="Amazon Project">
+        <classes>
+            <class name="com.amazon.qa.tests.WithOutLoginCredentialsTest"/>
+            <class name="com.amazon.qa.tests.WithLoginCredentialsTest"/>
+        </classes>
+    </test>
+
+
+</suite>
