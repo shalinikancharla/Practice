@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-import '../support/index';
+import '../../support/index';
 
 export abstract class BaseEyes {
   seesTextWithId(id: string, text: string) {
@@ -133,6 +133,12 @@ export abstract class BaseEyes {
     cy.get(dom).should('not.be.disabled');
     return this;
   }
+  seesDomTitle(message: string){ //title for Assertion
+    cy.title().should('eq',message)
+  }
+  seesDomUrl(url: string){  //assertion for url
+    cy.url().should('eq',url)
+  }
 }
 
 export class BaseHands {
@@ -195,6 +201,9 @@ export class BaseHands {
       .click();
     return this;
   }
+  clickOnSelectItem(dom: string, text: any){
+    cy.get(dom).select(text,{ force : true })
+  }  
 
   wait(milliSecs: number) {
     cy.wait(milliSecs);

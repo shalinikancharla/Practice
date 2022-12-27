@@ -1,5 +1,13 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "name": "pradad",
+  "email": "kancharla574@gmail.com",
+  "password": "Kancharla@574",
+  "FullName": "Shalini Iruvuru",
+  "PhoneNumber":"1232456790",
+  "PinCode":"500089",
+  "Address":"Brc Hemadurga Siva hills,A-block,702",
+  "Area":"Puppalaguda",
+  "LandMark":"Narsing Main Road",
+  "City":""
+
 }
