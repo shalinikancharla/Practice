@@ -1,0 +1,129 @@
+10:53:49.801 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+10:53:52.463 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/sections.feature
+10:54:43.420 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+10:54:43.751 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671859483751
+10:54:45.037 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/sections.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/sections.feature:3
+10:54:46.007 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/sections.feature
+10:55:37.280 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+10:55:37.594 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671859537594
+10:55:38.904 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/sections.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/sections.feature:3
+10:55:39.804 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/sections.feature
+11:08:54.538 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+11:08:54.836 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671860334836
+11:08:57.024 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/labels.feature
+18:09:11.778 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+18:09:12.173 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671971952173
+18:09:12.215 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 14
+18:09:13.643 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/projects.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/projects.feature:3
+18:09:14.800 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/projects.feature
+18:12:04.168 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+18:12:04.571 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671972124571
+18:12:04.607 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 14
+18:12:06.136 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/projects.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/projects.feature:3
+18:12:07.266 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/projects.feature
+22:37:17.559 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+22:37:17.933 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671988037933
+22:37:17.960 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 59
+22:37:19.399 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/tasks.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/tasks.feature:3
+22:37:20.472 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/tasks.feature
+22:37:37.853 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+22:37:38.210 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1671988058210
+22:37:38.246 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 59
+22:37:39.538 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/tasks.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/tasks.feature:3
+22:37:40.549 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/tasks.feature
+11:12:25.425 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+11:12:25.783 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1672033345783
+11:12:25.814 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 14
+11:12:27.323 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/tasks.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/tasks.feature:3
+11:12:28.476 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/tasks.feature
+11:13:56.676 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+11:13:57.022 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1672033437022
+11:13:57.056 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 14
+11:13:58.504 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/tasks.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/tasks.feature:3
+11:13:59.673 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/tasks.feature
+11:15:12.880 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+11:15:13.211 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1672033513211
+11:15:13.241 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 14
+11:15:14.667 [main]  ERROR com.intuit.karate - KaratePractice/src/test/java/examples/users/tasks.feature:3
+* url baseUrl
+js failed:
+>>>>
+01: baseUrl
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "baseUrl" is not defined
+- <js>.:program(Unnamed:1)
+
+KaratePractice/src/test/java/examples/users/tasks.feature:3
+11:15:15.804 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) KaratePractice/src/test/java/examples/users/tasks.feature
