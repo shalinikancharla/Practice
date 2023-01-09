@@ -39,7 +39,6 @@ public class LoginStepDefinitions {
     public void cursor_move_on_sign_in_button() {
         homePage.verifySignInHomePage();
         homePage.clickOnSignIn();
-
     }
     @When("select Your Account")
     public void select_your_account() {

@@ -15,12 +15,10 @@ public class BaseTest {
     public static WebDriver driver;
     static Properties prop;
 
-
     public BaseTest() throws IOException {
         prop=new Properties();
         FileInputStream fis = new FileInputStream("src/test/java/Config/Config.properties");
         prop.load(fis);
-
 
     }
 
