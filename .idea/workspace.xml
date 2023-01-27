@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc12ecd-5279-4e49-8c1c-0a8ad0326a41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/student_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jenkinsFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChildToParentIframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TDDFrameWork/ApachePOI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TDDFrameWork/ReadCsvFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestPackage.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestPackage/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestPackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/innerIframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/AbstractExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/HierarchicalInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/StackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExtentReporters/ExtentreportDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SendMail/SendMailReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TDDFrameWork/AddCustomerExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TDDFrameWork/HtmlTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="4dc12ecd-5279-4e49-8c1c-0a8ad0326a41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
