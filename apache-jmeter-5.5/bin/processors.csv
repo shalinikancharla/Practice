@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1674480040285,697,open product page,403,Forbidden,Thread Group 1-1,text,false,,562,119,1,1,https://www.athome.com/,689,0,663
+1674534831548,945,open product page,403,Forbidden,Thread Group 1-1,text,false,,562,119,1,1,https://www.athome.com/,938,0,916

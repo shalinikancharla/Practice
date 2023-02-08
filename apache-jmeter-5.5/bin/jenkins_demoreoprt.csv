@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="946" it="0" lt="163" ct="13" ts="1675780822202" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="36073" sby="352" ng="6" na="6">
+  <httpSample t="170" it="0" lt="163" ct="13" ts="1675780822202" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="623" sby="176" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="770" it="0" lt="621" ct="432" ts="1675780822378" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35450" sby="176" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="1014" it="0" lt="204" ct="51" ts="1675780822161" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36096" sby="352" ng="6" na="6">
+  <httpSample t="211" it="0" lt="204" ct="51" ts="1675780822161" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="623" sby="176" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="798" it="0" lt="622" ct="433" ts="1675780822377" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35473" sby="176" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="583" it="0" lt="15" ct="8" ts="1675780822598" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="36098" sby="352" ng="6" na="6">
+  <httpSample t="15" it="0" lt="15" ct="8" ts="1675780822598" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="623" sby="176" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="566" it="0" lt="384" ct="195" ts="1675780822615" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35475" sby="176" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="412" it="0" lt="19" ct="8" ts="1675780822798" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="38088" sby="352" ng="7" na="7">
+  <httpSample t="19" it="0" lt="19" ct="8" ts="1675780822798" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="391" it="0" lt="232" ct="70" ts="1675780822819" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="37465" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="878" it="0" lt="15" ct="8" ts="1675780822401" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="36071" sby="352" ng="7" na="7">
+  <httpSample t="15" it="0" lt="15" ct="8" ts="1675780822401" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="861" it="0" lt="581" ct="392" ts="1675780822418" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35448" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="412" it="0" lt="53" ct="26" ts="1675780822997" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="38081" sby="352" ng="8" na="8">
+  <httpSample t="53" it="0" lt="53" ct="26" ts="1675780822997" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="623" sby="176" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="357" it="0" lt="195" ct="30" ts="1675780823052" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="37458" sby="176" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="409" it="0" lt="84" ct="0" ts="1675780823182" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="15595" sby="302" ng="8" na="8">
+  <httpSample t="84" it="0" lt="84" ct="0" ts="1675780823182" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="598" sby="151" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="324" it="0" lt="168" ct="0" ts="1675780823267" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="14997" sby="151" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="438" it="0" lt="89" ct="0" ts="1675780823177" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15499" sby="302" ng="9" na="9">
+  <httpSample t="89" it="0" lt="89" ct="0" ts="1675780823177" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="349" it="0" lt="348" ct="0" ts="1675780823266" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14901" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="462" it="0" lt="90" ct="0" ts="1675780823159" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="15517" sby="302" ng="9" na="9">
+  <httpSample t="90" it="0" lt="90" ct="0" ts="1675780823159" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="371" it="0" lt="222" ct="0" ts="1675780823250" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="14919" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="342" it="0" lt="7" ct="0" ts="1675780823281" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="15512" sby="302" ng="9" na="9">
+  <httpSample t="7" it="0" lt="7" ct="0" ts="1675780823281" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="334" it="0" lt="195" ct="0" ts="1675780823289" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="14914" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="411" it="0" lt="60" ct="0" ts="1675780823212" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="15568" sby="302" ng="9" na="9">
+  <httpSample t="60" it="0" lt="60" ct="0" ts="1675780823212" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="350" it="0" lt="208" ct="0" ts="1675780823273" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="14970" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="469" it="0" lt="86" ct="76" ts="1675780823196" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="36107" sby="352" ng="9" na="9">
+  <httpSample t="86" it="0" lt="86" ct="76" ts="1675780823196" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="623" sby="176" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="381" it="0" lt="214" ct="25" ts="1675780823284" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="35484" sby="176" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="316" it="0" lt="7" ct="0" ts="1675780823410" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="15555" sby="302" ng="9" na="9">
+  <httpSample t="8" it="0" lt="7" ct="0" ts="1675780823410" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="209" ct="0" ts="1675780823418" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="14957" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="430" it="0" lt="28" ct="15" ts="1675780823396" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="36084" sby="352" ng="10" na="10">
+  <httpSample t="28" it="0" lt="28" ct="15" ts="1675780823396" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="400" it="0" lt="246" ct="68" ts="1675780823426" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35461" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="434" it="0" lt="81" ct="0" ts="1675780823616" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36092" sby="352" ng="10" na="10">
+  <httpSample t="81" it="0" lt="81" ct="0" ts="1675780823616" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="352" it="0" lt="206" ct="0" ts="1675780823698" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35469" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="52" ct="0" ts="1675780823667" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="15525" sby="302" ng="10" na="10">
+  <httpSample t="53" it="0" lt="52" ct="0" ts="1675780823667" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="340" it="0" lt="213" ct="0" ts="1675780823720" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="14927" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="550" it="0" lt="75" ct="0" ts="1675780823622" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="36103" sby="352" ng="10" na="10">
+  <httpSample t="75" it="0" lt="75" ct="0" ts="1675780823622" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="474" it="0" lt="215" ct="0" ts="1675780823698" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35480" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="550" it="0" lt="75" ct="0" ts="1675780823625" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="36021" sby="352" ng="10" na="10">
+  <httpSample t="75" it="0" lt="75" ct="0" ts="1675780823625" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="474" it="0" lt="203" ct="0" ts="1675780823701" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35398" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="554" it="0" lt="75" ct="0" ts="1675780823625" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="36037" sby="352" ng="10" na="10">
+  <httpSample t="75" it="0" lt="75" ct="0" ts="1675780823625" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="478" it="0" lt="210" ct="0" ts="1675780823701" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35414" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="602" it="0" lt="91" ct="0" ts="1675780823593" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="36077" sby="352" ng="10" na="10">
+  <httpSample t="91" it="0" lt="91" ct="0" ts="1675780823593" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="510" it="0" lt="228" ct="0" ts="1675780823685" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35454" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="496" it="0" lt="28" ct="0" ts="1675780823728" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="36035" sby="352" ng="10" na="10">
+  <httpSample t="29" it="0" lt="28" ct="0" ts="1675780823728" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="467" it="0" lt="190" ct="0" ts="1675780823757" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="35412" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="409" it="0" lt="10" ct="0" ts="1675780823828" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="12894" sby="302" ng="10" na="10">
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1675780823828" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="398" it="0" lt="169" ct="0" ts="1675780823839" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="12296" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="643" it="0" lt="143" ct="88" ts="1675780823596" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="36096" sby="352" ng="10" na="10">
+  <httpSample t="143" it="0" lt="143" ct="88" ts="1675780823596" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="498" it="0" lt="215" ct="36" ts="1675780823741" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35473" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="471" it="0" lt="32" ct="11" ts="1675780823794" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="36396" sby="352" ng="10" na="10">
+  <httpSample t="32" it="0" lt="32" ct="11" ts="1675780823794" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="437" it="0" lt="190" ct="30" ts="1675780823828" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35773" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="274" it="0" lt="88" ct="0" ts="1675780824176" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="12854" sby="302" ng="10" na="10">
+  <httpSample t="88" it="0" lt="88" ct="0" ts="1675780824176" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="186" it="0" lt="184" ct="0" ts="1675780824264" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="12256" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="498" it="0" lt="142" ct="0" ts="1675780824052" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15598" sby="302" ng="9" na="9">
+  <httpSample t="142" it="0" lt="142" ct="0" ts="1675780824052" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="355" it="0" lt="224" ct="0" ts="1675780824195" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15000" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="369" it="0" lt="68" ct="0" ts="1675780824196" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="12872" sby="302" ng="8" na="8">
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1675780824196" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="598" sby="151" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="177" ct="0" ts="1675780824264" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="12274" sby="151" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="391" it="0" lt="90" ct="0" ts="1675780824174" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="15581" sby="302" ng="8" na="8">
+  <httpSample t="90" it="0" lt="90" ct="0" ts="1675780824174" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="598" sby="151" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="168" ct="0" ts="1675780824264" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="14983" sby="151" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="385" it="0" lt="84" ct="0" ts="1675780824180" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="15548" sby="302" ng="8" na="8">
+  <httpSample t="84" it="0" lt="84" ct="0" ts="1675780824180" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="598" sby="151" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="184" ct="0" ts="1675780824264" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="14950" sby="151" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="342" it="0" lt="42" ct="0" ts="1675780824240" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="15549" sby="302" ng="5" na="5">
+  <httpSample t="42" it="0" lt="42" ct="0" ts="1675780824240" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="598" sby="151" ng="5" na="5">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="175" ct="0" ts="1675780824283" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="14951" sby="151" ng="5" na="5">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="360" it="0" lt="48" ct="0" ts="1675780824225" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="15513" sby="302" ng="5" na="5">
+  <httpSample t="48" it="0" lt="48" ct="0" ts="1675780824225" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="598" sby="151" ng="5" na="5">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="312" it="0" lt="195" ct="0" ts="1675780824273" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="14915" sby="151" ng="5" na="5">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="332" it="0" lt="16" ct="0" ts="1675780824266" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="15535" sby="302" ng="4" na="4">
+  <httpSample t="16" it="0" lt="16" ct="0" ts="1675780824266" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="598" sby="151" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="315" it="0" lt="197" ct="0" ts="1675780824283" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="14937" sby="151" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="537" it="0" lt="163" ct="0" ts="1675780824061" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="36367" sby="352" ng="4" na="4">
+  <httpSample t="163" it="0" lt="163" ct="0" ts="1675780824061" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="374" it="0" lt="233" ct="0" ts="1675780824224" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="35744" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="400" it="0" lt="38" ct="0" ts="1675780824238" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="36069" sby="352" ng="4" na="4">
+  <httpSample t="38" it="0" lt="38" ct="0" ts="1675780824238" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="362" it="0" lt="205" ct="0" ts="1675780824276" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35446" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="386" it="0" lt="57" ct="0" ts="1675780824583" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="36075" sby="352" ng="4" na="4">
+  <httpSample t="57" it="0" lt="57" ct="0" ts="1675780824583" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="329" it="0" lt="188" ct="0" ts="1675780824640" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35452" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="390" it="0" lt="64" ct="0" ts="1675780824599" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="36076" sby="352" ng="4" na="4">
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1675780824599" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="325" it="0" lt="174" ct="0" ts="1675780824664" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35453" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="356" it="0" lt="43" ct="0" ts="1675780824639" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="15524" sby="302" ng="4" na="4">
+  <httpSample t="43" it="0" lt="43" ct="0" ts="1675780824639" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="598" sby="151" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="313" it="0" lt="172" ct="0" ts="1675780824682" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="14926" sby="151" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="396" it="0" lt="66" ct="0" ts="1675780824600" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="15488" sby="302" ng="4" na="4">
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1675780824600" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="598" sby="151" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="330" it="0" lt="329" ct="0" ts="1675780824666" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="14890" sby="151" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="336" it="0" lt="25" ct="0" ts="1675780824970" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="12903" sby="302" ng="2" na="2">
+  <httpSample t="25" it="0" lt="25" ct="0" ts="1675780824970" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="598" sby="151" ng="2" na="2">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="311" it="0" lt="181" ct="0" ts="1675780824995" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="12305" sby="151" ng="2" na="2">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="332" it="0" lt="24" ct="0" ts="1675780824990" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="12868" sby="302" ng="1" na="1">
+  <httpSample t="24" it="0" lt="24" ct="0" ts="1675780824990" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="598" sby="151" ng="1" na="1">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="307" it="0" lt="177" ct="0" ts="1675780825015" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="12270" sby="151" ng="1" na="1">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+
+<httpSample t="1072" it="0" lt="191" ct="121" ts="1675829974348" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35836" sby="352" ng="7" na="7">
+  <httpSample t="197" it="0" lt="191" ct="121" ts="1675829974348" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="871" it="0" lt="689" ct="496" ts="1675829974549" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35213" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="875" it="0" lt="184" ct="82" ts="1675829974546" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35816" sby="352" ng="7" na="7">
+  <httpSample t="184" it="0" lt="184" ct="82" ts="1675829974546" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="689" it="0" lt="514" ct="313" ts="1675829974732" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35193" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="1074" it="0" lt="192" ct="122" ts="1675829974347" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36121" sby="352" ng="7" na="7">
+  <httpSample t="198" it="0" lt="192" ct="122" ts="1675829974347" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="872" it="0" lt="689" ct="496" ts="1675829974549" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35498" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="676" it="0" lt="89" ct="30" ts="1675829974744" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35800" sby="352" ng="7" na="7">
+  <httpSample t="89" it="0" lt="89" ct="30" ts="1675829974744" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="623" sby="176" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="585" it="0" lt="403" ct="210" ts="1675829974835" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="35177" sby="176" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="609" it="0" lt="95" ct="35" ts="1675829974943" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35887" sby="352" ng="8" na="8">
+  <httpSample t="95" it="0" lt="95" ct="35" ts="1675829974943" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="623" sby="176" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="512" it="0" lt="353" ct="152" ts="1675829975040" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35264" sby="176" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="513" it="0" lt="65" ct="28" ts="1675829975143" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="35808" sby="352" ng="8" na="8">
+  <httpSample t="65" it="0" lt="65" ct="28" ts="1675829975143" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="623" sby="176" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="446" it="0" lt="265" ct="76" ts="1675829975210" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="35185" sby="176" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="368" it="0" lt="31" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="15592" sby="302" ng="9" na="9">
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="336" it="0" lt="272" ct="0" ts="1675829975475" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="14994" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="368" it="0" lt="38" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15526" sby="302" ng="9" na="9">
+  <httpSample t="38" it="0" lt="38" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="329" it="0" lt="265" ct="0" ts="1675829975482" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14928" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="371" it="0" lt="38" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="12892" sby="302" ng="9" na="9">
+  <httpSample t="38" it="0" lt="38" ct="0" ts="1675829975443" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="332" it="0" lt="268" ct="0" ts="1675829975482" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="12294" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="374" it="0" lt="41" ct="0" ts="1675829975444" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="15508" sby="302" ng="9" na="9">
+  <httpSample t="41" it="0" lt="41" ct="0" ts="1675829975444" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="333" it="0" lt="270" ct="0" ts="1675829975485" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="14910" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="523" it="0" lt="84" ct="51" ts="1675829975341" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="35782" sby="352" ng="9" na="9">
+  <httpSample t="84" it="0" lt="84" ct="51" ts="1675829975341" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="623" sby="176" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="437" it="0" lt="328" ct="86" ts="1675829975427" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="35159" sby="176" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="43" ct="0" ts="1675829975554" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="15515" sby="302" ng="10" na="10">
+  <httpSample t="43" it="0" lt="43" ct="0" ts="1675829975554" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="350" it="0" lt="209" ct="0" ts="1675829975597" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="14917" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="438" it="0" lt="97" ct="0" ts="1675829975658" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="15527" sby="302" ng="10" na="10">
+  <httpSample t="97" it="0" lt="97" ct="0" ts="1675829975658" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="340" it="0" lt="199" ct="0" ts="1675829975756" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="14929" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="277" it="0" lt="29" ct="0" ts="1675829975820" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="37781" sby="352" ng="10" na="10">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829975820" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="248" it="0" lt="219" ct="0" ts="1675829975849" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="37158" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="628" it="0" lt="112" ct="55" ts="1675829975541" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35796" sby="352" ng="10" na="10">
+  <httpSample t="112" it="0" lt="112" ct="55" ts="1675829975541" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="514" it="0" lt="408" ct="139" ts="1675829975655" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35173" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="385" it="0" lt="33" ct="0" ts="1675829975812" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35832" sby="352" ng="10" na="10">
+  <httpSample t="33" it="0" lt="33" ct="0" ts="1675829975812" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="352" it="0" lt="218" ct="0" ts="1675829975845" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="35209" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="397" it="0" lt="32" ct="0" ts="1675829975816" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35799" sby="352" ng="10" na="10">
+  <httpSample t="33" it="0" lt="32" ct="0" ts="1675829975816" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="364" it="0" lt="214" ct="0" ts="1675829975849" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="35176" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="401" it="0" lt="32" ct="0" ts="1675829975813" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35789" sby="352" ng="10" na="10">
+  <httpSample t="32" it="0" lt="32" ct="0" ts="1675829975813" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="369" it="0" lt="219" ct="0" ts="1675829975845" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="35166" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="488" it="0" lt="61" ct="31" ts="1675829975739" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35780" sby="352" ng="10" na="10">
+  <httpSample t="61" it="0" lt="61" ct="31" ts="1675829975739" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="426" it="0" lt="275" ct="77" ts="1675829975801" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35157" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="369" it="0" lt="28" ct="0" ts="1675829975865" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="15593" sby="302" ng="10" na="10">
+  <httpSample t="28" it="0" lt="28" ct="0" ts="1675829975865" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="340" it="0" lt="206" ct="0" ts="1675829975894" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="14995" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="463" it="0" lt="114" ct="0" ts="1675829975948" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35834" sby="352" ng="10" na="10">
+  <httpSample t="115" it="0" lt="114" ct="0" ts="1675829975948" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="623" sby="176" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="348" it="0" lt="191" ct="0" ts="1675829976063" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="35211" sby="176" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="407" it="0" lt="66" ct="0" ts="1675829976099" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="15515" sby="302" ng="10" na="10">
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1675829976099" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="598" sby="151" ng="10" na="10">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="341" it="0" lt="204" ct="0" ts="1675829976165" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="14917" sby="151" ng="10" na="10">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="420" it="0" lt="68" ct="0" ts="1675829976097" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="35790" sby="352" ng="9" na="9">
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1675829976097" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="623" sby="176" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="352" it="0" lt="192" ct="0" ts="1675829976165" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="35167" sby="176" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="376" it="0" lt="42" ct="0" ts="1675829976171" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="12873" sby="302" ng="9" na="9">
+  <httpSample t="42" it="0" lt="42" ct="0" ts="1675829976171" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="333" it="0" lt="197" ct="0" ts="1675829976214" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="12275" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="31" ct="0" ts="1675829976199" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="15547" sby="302" ng="9" na="9">
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1675829976199" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="598" sby="151" ng="9" na="9">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="347" it="0" lt="203" ct="0" ts="1675829976230" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="14949" sby="151" ng="9" na="9">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="644" it="0" lt="157" ct="123" ts="1675829975939" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35811" sby="352" ng="8" na="8">
+  <httpSample t="157" it="0" lt="157" ct="123" ts="1675829975939" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="623" sby="176" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="485" it="0" lt="320" ct="122" ts="1675829976098" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35188" sby="176" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="372" it="0" lt="39" ct="0" ts="1675829976215" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15522" sby="302" ng="8" na="8">
+  <httpSample t="39" it="0" lt="39" ct="0" ts="1675829976215" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="598" sby="151" ng="8" na="8">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="333" it="0" lt="198" ct="0" ts="1675829976254" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14924" sby="151" ng="8" na="8">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="375" it="0" lt="31" ct="0" ts="1675829976215" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="15518" sby="302" ng="7" na="7">
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1675829976215" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="598" sby="151" ng="7" na="7">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="343" it="0" lt="206" ct="0" ts="1675829976247" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="14920" sby="151" ng="7" na="7">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="371" it="0" lt="33" ct="0" ts="1675829976229" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="15514" sby="302" ng="6" na="6">
+  <httpSample t="33" it="0" lt="33" ct="0" ts="1675829976229" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="598" sby="151" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="337" it="0" lt="199" ct="0" ts="1675829976263" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="14916" sby="151" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="379" it="0" lt="29" ct="0" ts="1675829976236" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="36109" sby="352" ng="6" na="6">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829976236" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="623" sby="176" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="349" it="0" lt="196" ct="0" ts="1675829976266" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="35486" sby="176" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="368" it="0" lt="29" ct="0" ts="1675829976413" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="15540" sby="302" ng="6" na="6">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829976413" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="598" sby="151" ng="6" na="6">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="338" it="0" lt="203" ct="0" ts="1675829976443" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="14942" sby="151" ng="6" na="6">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="367" it="0" lt="29" ct="0" ts="1675829976518" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="15502" sby="302" ng="5" na="5">
+  <httpSample t="30" it="0" lt="29" ct="0" ts="1675829976518" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="598" sby="151" ng="5" na="5">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="337" it="0" lt="203" ct="0" ts="1675829976548" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="14904" sby="151" ng="5" na="5">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="376" it="0" lt="28" ct="0" ts="1675829976549" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35792" sby="352" ng="4" na="4">
+  <httpSample t="28" it="0" lt="28" ct="0" ts="1675829976549" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="348" it="0" lt="188" ct="0" ts="1675829976577" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="35169" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="367" it="0" lt="29" ct="0" ts="1675829976584" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="15542" sby="302" ng="4" na="4">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829976584" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="598" sby="151" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="338" it="0" lt="200" ct="0" ts="1675829976613" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="14944" sby="151" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="386" it="0" lt="31" ct="0" ts="1675829976601" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35766" sby="352" ng="4" na="4">
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1675829976601" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="623" sby="176" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="354" it="0" lt="196" ct="0" ts="1675829976633" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="35143" sby="176" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="32" ct="0" ts="1675829976616" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="15514" sby="302" ng="4" na="4">
+  <httpSample t="32" it="0" lt="32" ct="0" ts="1675829976616" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="598" sby="151" ng="4" na="4">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="345" it="0" lt="202" ct="0" ts="1675829976649" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="14916" sby="151" ng="4" na="4">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="366" it="0" lt="31" ct="0" ts="1675829976927" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="15523" sby="302" ng="3" na="3">
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1675829976927" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="598" sby="151" ng="3" na="3">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="335" it="0" lt="202" ct="0" ts="1675829976958" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="14925" sby="151" ng="3" na="3">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="379" it="0" lt="32" ct="0" ts="1675829976953" s="true" lb="Mobile" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35838" sby="352" ng="2" na="2">
+  <httpSample t="32" it="0" lt="32" ct="0" ts="1675829976953" s="true" lb="Mobile-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="623" sby="176" ng="2" na="2">
+    <java.net.URL>http://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <httpSample t="347" it="0" lt="186" ct="0" ts="1675829976985" s="true" lb="Mobile-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="35215" sby="176" ng="2" na="2">
+    <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/mobile-phones/b/?ie=UTF8&amp;node=1389401031&amp;ref_=nav_cs_mobiles</java.net.URL>
+</httpSample>
+<httpSample t="395" it="0" lt="29" ct="0" ts="1675829976988" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="15504" sby="302" ng="2" na="2">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829976988" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="598" sby="151" ng="2" na="2">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="365" it="0" lt="225" ct="0" ts="1675829977018" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="14906" sby="151" ng="2" na="2">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+<httpSample t="365" it="0" lt="29" ct="0" ts="1675829977334" s="true" lb="AmazonMiniTv" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="15515" sby="302" ng="1" na="1">
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1675829977334" s="true" lb="AmazonMiniTv-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="598" sby="151" ng="1" na="1">
+    <java.net.URL>http://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <httpSample t="335" it="0" lt="197" ct="0" ts="1675829977364" s="true" lb="AmazonMiniTv-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="14917" sby="151" ng="1" na="1">
+    <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.amazon.in/minitv?ref_=nav_avod_desktop_topnav</java.net.URL>
+</httpSample>
+
+</testResults>
