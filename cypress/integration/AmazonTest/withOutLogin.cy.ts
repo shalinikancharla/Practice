@@ -1,69 +1,83 @@
-import { RobotEyes, RobotHands, Dependencies } from '../../robots/AmazonApplication/Amazon';
+import { HomePageDependencies,HomePageRobotEyes,HomePageRobotHands } from "../../robots/AmazonApplication/homePage";
+import { TodaysDealsRobotEyes,TodaysDealsRobothands } from "../../robots/AmazonApplication/todaysDealPage";
+import { AddToCartEyes,AddToCartHands} from "../../robots/AmazonApplication/addToCartPage";
+import { MobileSearchRobotHands,MobileSearchRobotEyes } from "../../robots/AmazonApplication/mobileSearchPage";
+import { constant } from "cypress/types/lodash";
+context('Amazon Application Without Login',()=>{
+    const homePageRobotEyes = new HomePageRobotEyes;
+    const homePageRobotHands =new HomePageRobotHands;
+    const homePageDependencies=new HomePageDependencies;
+    const todaysDealsRobotEyes=new TodaysDealsRobotEyes;
+    const todaysDealsRobothands=new TodaysDealsRobothands;
+    const addToCartEyes =new AddToCartEyes;
+    const addToCartHands=new AddToCartHands
+    const mobileSearchRobotEyes= new MobileSearchRobotEyes
+    const mobileSearchRobotHands =new MobileSearchRobotHands;
 
-context('Amazon Test without login', () => {
-const robotEyes = new RobotEyes();
-const robotHands = new RobotHands();
-const dependencies = new Dependencies()
-
-    describe.skip('Search the required information for Amazon shopping', ()=>{
-
+    describe('Search the required information for Amazon shopping',()=>{
         before(()=> {
-            dependencies.visitAmazon();
+            homePageDependencies.visitAmazon();
         })
         it("navigate to Home page", () => {
-            robotEyes.seesMainPage();//Assertion for logo
-            robotHands.clickOnTodaysDeals();//click on Third Deal
+            homePageRobotEyes.seesMainPage()
             
         });
         it('navigate to TodaysDeals Page',()=>{
-            robotEyes.seesTodaysDealsPage();//verify the TodaysDeal page
-            robotHands.clickOnThirdDeal("div[data-testid='grid-deals-container'] [class$='DealGridItem-module__dealItemDisplayGrid_e7RQVFWSOrwXBX4i24Tqg DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN']:nth-of-type(3)");
-
-            robotHands.clickonInnerThirdDeal("ul[class='a-unordered-list a-nostyle a-horizontal a-spacing-none'] li:nth-of-type(3)")
-            //robotHands.clickonInnerThirdDeal()
-            
-            //robotHands.clickOnSeeAllDetails()
-
+            todaysDealsRobothands.clickOnTodaysDeals();
+            todaysDealsRobotEyes.seesTodaysDealsPage();
+            todaysDealsRobothands.clickOnThirdDeal();
+            todaysDealsRobothands.clickOnInnerThirdDeal();
         })
         it('navigate to AddtoCart Page',()=>{
-            robotHands.selectQuantity() //select the quantity
-            robotHands.clickOnAddToCart(); //click on AddToCart
-            robotEyes.seesMinimumNumberOfElements()
+            addToCartEyes.seesQuantity;
+            addToCartHands.clickOnSelectItem;
+            cy.wait(2000);
 
-        })
+            //addToCartEyes.seesAddToCartText();
+            addToCartHands.clickOnAddToCart();
+            cy.wait(2000)
 
-    })
+            addToCartHands.clickOnSkipButton();
+            cy.wait(2000)
 
-    describe('Search the required information for Amazon Shopping', ()=>{
-        Cypress.on('uncaught:exception', (err, runnable) => {
-            return false
-          })
- 
-        before(()=> {
-            dependencies.visitAmazon();
-        })
-        it('search for Mobiles',()=>{
-            robotEyes.seesSearchBarVisible()
-            robotHands.searchForMobiles();
-            robotHands.clickOnSearchBar()
 
-        })
-        it('get the Last Displayed Item',()=>{
-            robotHands.clickonLastDisplayedItem();
-            robotEyes.seesChildWindowText();
+            //addToCartEyes.seesMinimumNumberOfElements;
+            //homePageRobotHands.clickOnCart();
             
+            //addToCartEyes.seesCartSuccessFullMessage();
 
         })
-        it('childwindow navigation to select mobiles',()=>{
-            robotHands.clickOnLeftNavigation();
-            robotHands.clickOnMobilesComputers();
-            robotHands.clickOnAllMobilePhones();
-            robotHands.navigateToMainMenu();
-            robotEyes.seesParentWindowText()
 
-        })
+ })
+ describe.skip('Search for Mobiles', ()=>{
+    Cypress.on('uncaught:exception', (err, runnable) => {
+        return false
+      })
+    before(()=> {
+        homePageDependencies.visitAmazon()
     })
+    it('search for Mobiles',()=>{
+        homePageRobotEyes.seesSearchBarVisible()
+        homePageRobotHands.searchForMobiles()
+        homePageRobotHands.clickOnSearchBar()
+    })
+    it('get the Last Displayed Item',()=>{
+
+        mobileSearchRobotHands.clickonLastDisplayedItem()
+        mobileSearchRobotEyes.seesChildWindowText();       
+
+    })
+    it('childwindow navigation to select mobiles',()=>{
+        mobileSearchRobotHands.clickOnLeftNavigation();
+        mobileSearchRobotHands.clickOnMobilesComputers()
+        mobileSearchRobotHands.clickOnAllMobilePhones();
+        mobileSearchRobotHands.navigateToMainMenu();
+        mobileSearchRobotEyes.seesParentWindowText()
+
+    })
+
+
+ })
+
 
 })
-
-    

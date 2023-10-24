@@ -1,4 +1,4 @@
-import { BaseHands, BaseEyes, BaseDependencies } from '../AmazonApplication/BaseRobot';
+import { BaseHands, BaseEyes, BaseDependencies } from '../AmazonApplication/baseRobot';
 
 
 export class Dependencies extends BaseDependencies {

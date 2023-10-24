@@ -1,62 +1,70 @@
-import { RobotEyes, RobotHands, Dependencies } from '../../robots/AmazonApplication/Amazon';
+import { HomePageDependencies,HomePageRobotEyes,HomePageRobotHands } from "../../robots/AmazonApplication/homePage";
+import { OrderPageRobotEyes,OrderPageRobotHands } from "../../robots/AmazonApplication/orderDetailsPage";
+import { PaymentRobotEyes,PaymentRobotHands } from "../../robots/AmazonApplication/paymentpage";
+import { AddressPageRobotHands,AddressPageRobotEyes } from "../../robots/AmazonApplication/addressPage";
+import { get, method } from "cypress/types/lodash";
+context('Amazon Application Without Login',()=>{
+    const homePageRobotEyes = new HomePageRobotEyes;
+    const homePageRobotHands =new HomePageRobotHands;
+    const homePageDependencies=new HomePageDependencies;
+    const orderPageRobotEyes =new OrderPageRobotEyes
+    const orderPageRobotHands=new OrderPageRobotHands;
+    const paymentRobotEyes = new PaymentRobotEyes;
+    const paymentRobotHands=new PaymentRobotHands;
+    const addressPageRobotEyes=new AddressPageRobotEyes;
+    const addressPageRobotHands=new AddressPageRobotHands;
+    describe('Search the required information for Amazon Shopping', ()=>{
+        before(()=> {
+            homePageDependencies.visitAmazon();
+            
+            
+         })
+         it('Login to Amazon Application with valid credentials',()=>{
+            homePageRobotHands.clickOnSignIn();
+            homePageRobotHands.amazonLogin();
+            homePageRobotEyes.seesLoginText();
+            homePageRobotHands.clickOnYourOrder();
+            orderPageRobotEyes.seesOrderTitle();
+            orderPageRobotHands.clickOnPastOneYearOrder();
+            orderPageRobotEyes.seesGetFirtstItem();
+            orderPageRobotHands.clickOnViewOrderDetails();
+         })
+         it('Payment Page',()=>{
+            orderPageRobotHands.clickOnReturnYourAccount();
+            paymentRobotHands.clickOnPaymentOption()
+            homePageRobotHands.amazonLogin();
+            paymentRobotEyes.seesPaymentTitle();//Assertion for title
+            paymentRobotEyes.seesPaymentOption();//Assertion for text
 
-context('Amazon Test Without Login', () => {
-    const robotEyes = new RobotEyes();
-    const robotHands = new RobotHands();
-    const dependencies = new Dependencies();
-    
-        describe('Search the required information for Amazon Shopping', ()=>{
-            before(()=> {
-                dependencies.visitAmazon();
-                
-                
-            })
-    
-            it("navigate to Orders page", () => {
-                robotHands.clickOnSignIn()
-                robotHands.amazonLogin();
-                robotEyes.seesLoginText();//Assertion for login text
-                robotHands.clickOnYourOrder()
-                robotEyes.seesOrderTitle();
-                robotHands.clickOnDeliveryCheckBox();
-                robotEyes.seesGetFirtstItem();
-                robotHands.clickOnViewOrderDetails()
-                robotEyes.seesDelivreyStatus()
-                robotHands.clickOnReturnYourOrder()
-                robotHands.clickOnPastOneYearOrder();
-                robotEyes.seesPastOneYearOrder()
-                
+         })
+         it("Delivery Page",()=>{
+            paymentRobotHands.clickOnYourAccountFromPayment()
+            addressPageRobotHands.clickOnDeliveryOption();
+            homePageRobotHands.amazonLogin();
+            addressPageRobotHands.clickOnAddAddress()
+            addressPageRobotEyes.seesAddressTitle();
+            addressPageRobotHands.enterPhoneNumber();
+            addressPageRobotHands.enterPinCode();
+            addressPageRobotHands.enterAddress();
+            addressPageRobotHands.enterArea();
+            addressPageRobotHands.enterLandMark();
+            addressPageRobotHands.enterFullName();
+            addressPageRobotHands.clickOnSelectCheckBox()
+            addressPageRobotHands.selectAnAddressType()
+            addressPageRobotHands.clickOnButtonAddAddress()
+            addressPageRobotEyes.seesAddressSaved()
 
-
-            })
-            it('Payment Page',()=>{
-                robotHands.clickOnReturnYourAccount();
-                robotHands.clickOnPaymentOption()
-                robotHands.amazonLogin()
-                robotEyes.seesPaymentTitle();//Assertion for title
-                robotEyes.seesPaymentOption();//Assertion for text
-                robotHands.clickOnYourAccountFromPayment()
-
-                
-            })
-            it("Delivery Page",()=>{
-                robotHands.clickOnDeliveryOption();
-                robotHands.amazonLogin();
-                robotHands.clickOnAddAddress()
-                robotEyes.seesAddressTitle();
-                //robotHands.enterFullName();
-                robotHands.enterPhoneNumber();
-                robotHands.enterPinCode();
-                robotHands.enterAddress();
-                robotHands.enterArea();
-                robotHands.enterLandMark();
-                //robotHands.enterCity();
-                robotHands.enterFullName();
-                robotHands.clickOnSelectCheckBox()
-                robotHands.selectAnAddressType()
-                robotHands.clickOnButtonAddAddress()
-                robotEyes.seesAddressSaved
-
-            })
         })
+
+
     })
+    describe.skip('API calls swagger pet store',()=>{
+        it('find Australia locator',()=>{
+            cy.visit('https://www.amazon.in/deals?ref_=nav_cs_gb')
+            cy.get('div[class="navFooterLine navFooterLinkLine navFooterPadItemLine"] ul li').contains('China').click()
+        })
+    
+    })
+
+  
+})
