@@ -1,0 +1,30 @@
+Microservice: #object
+   app: "user-authentication" #Key-value pair
+   port: 9000
+   version: 1.7
+
+   #lists
+   Microservices: 
+     - app: "user-authentication" #Key-value pair
+       port: 9000
+       version: 1.7
+     - app: "shopping cart" 
+       port: 9002 
+       versions:
+       - 1.9
+       - 2.0
+       - 2.1
+       versions1: [1.9,2.0,2.1]
+       address:
+       city: Hyd
+       state: Telengana
+       country: India
+       payslips:
+       month: amount
+       june: 1200
+       july: 1300
+       august: 3400   
+
+       multilineString: |
+        This is a single line.it should be on all in one single line
+     

@@ -1,0 +1,52 @@
+#Numeric types
+---
+ foo: 12345 #Integer
+ bar: 0x12d4 #Hexa decimal
+ plop: 023332 #Octal
+ fooo: 1230.15 #floating point
+ baro: 12.3015e+05 #exponential 
+
+ foo1: .inf #infinity
+ bar1: -.Inf #negative infinity
+ plop1: .NAN #Not a number
+  
+ foo2: this is a normal string #String
+
+ bar2: >
+  this is not a normal string it
+  spans more than
+  one line
+  see?
+
+#o/p
+ #bar02: "this is not a normal string it spans more than one line see?
+
+
+ bar03: |
+  this is not a normal string it
+  spans more than
+  one line
+  see?
+
+ #o/p
+ bar04: this is not a normal string it
+        spans more than
+        one line
+        see?
+
+ foo4: ~
+ bar05: null   
+
+#o/p
+ foo0: None
+ bar06: None
+
+#boolean data types
+---
+foo: True
+bar: False
+light: On
+TV: Off
+
+#Dictionaries
+foo05: { thing1: huey, thing2: louie, thing3: dewey }

@@ -1,0 +1,12 @@
+employee:
+  name: john
+  gender: male
+  age: 24
+  address:
+    city: 'edison'
+    state: 'new jersey'
+    country: 'united states'
+  payslips:  
+    - june: 1400
+    - july: 2400
+    - august: 3400
