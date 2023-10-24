@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac92ff06-2ba0-4e56-88a6-00fc48f4d64b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/WithLoginDetails.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/WithoutLoginDetails.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Config/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Hooks/baseHooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AccountsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AddressPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/MobilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/OrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/PaymentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/TodaySDeals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/LoginStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/StepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner/withOutLoginDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testUtil/utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +25,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2JcndBNtnZvVGI0AZbr5IkfQIIF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
